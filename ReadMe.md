@@ -1,18 +1,114 @@
+<div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Harshil%20Sharma&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Building%20in%20Public&descColor=8892b0&descSize=16&descAlignY=58&animation=fadeIn" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshil-sharma-b746a7392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshil.456.sharma@gmail.com) 
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=githarshil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=githarshil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=githarshil&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+ ┌─────────────────────────────────────────────────────────┐
+ │  node.js  ·  react  ·  mongodb  ·  express  ·  rest api │
+ │          crafting full-stack web experiences             │
+ └─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/harshil-sharma-b746a7392">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
+  </a>
+  &nbsp;
+  <a href="mailto:harshil.456.sharma@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=githarshil&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=githarshil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `~/about-me`
+
+```javascript
+const harshil = {
+  role        : "Full Stack Developer",
+  currently   : ["React", "Node.js", "Building real-world apps"],
+  learning    : ["AI Engineering", "System Design"],
+  stack       : ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
+  ask_me_about: ["Web Dev", "REST APIs", "Backend Architecture"],
+  reach_me_at : "harshil.456.sharma@gmail.com"
+};
+```
+
+<br/>
+
+---
+
+## `~/tech-stack`
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=E34F26)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=646CFF)
+![Redux](https://img.shields.io/badge/Redux-1a1a1a?style=flat-square&logo=redux&logoColor=764ABC)
+![React Router](https://img.shields.io/badge/React_Router-1a1a1a?style=flat-square&logo=react-router&logoColor=CA4245)
+![React Query](https://img.shields.io/badge/React_Query-1a1a1a?style=flat-square&logo=react%20query&logoColor=FF4154)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=4EA94B)
+![JWT](https://img.shields.io/badge/JWT-1a1a1a?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Tools & Others**
+
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![NPM](https://img.shields.io/badge/NPM-1a1a1a?style=flat-square&logo=npm&logoColor=CB3837)
+![Babel](https://img.shields.io/badge/Babel-1a1a1a?style=flat-square&logo=babel&logoColor=F9DC3E)
+![Nodemon](https://img.shields.io/badge/Nodemon-1a1a1a?style=flat-square&logo=nodemon&logoColor=76D04B)
+![Context API](https://img.shields.io/badge/Context_API-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+
+</div>
+
+<br/>
+
+---
+
+## `~/github-stats`
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.shion.dev/api?username=githarshil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&icon_color=00d4ff" />
+<img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=githarshil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=8892b0" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=githarshil&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8892b0&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer&animation=fadeIn" />
+
+</div>
