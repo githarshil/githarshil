@@ -105,6 +105,16 @@ const harshil = {
 
 ---
 
+## ⏱️ WakaTime Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=githarshil&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=cc0033&text_color=8899aa&icon_color=cc0033&layout=compact" />
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
