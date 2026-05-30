@@ -108,12 +108,22 @@ const harshil = {
 ## ⏱️ WakaTime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=githarshil&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=cc0033&text_color=8899aa&icon_color=cc0033&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=githarshil&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=cc0033&text_color=8899aa&icon_color=cc0033&layout=compact" />
 </div>
 
 <br/>
 
 ---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0033,40:3d0020,70:1a0010,100:0a0a0f&height=120&section=footer&animation=twinkling" />
+
+</div>
 
 <div align="center">
 
