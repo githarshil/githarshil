@@ -125,12 +125,3 @@ const harshil = {
 
 </div>
 
-<div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0033,40:3d0020,70:1a0010,100:0a0a0f&height=120&section=footer&animation=twinkling" />
-
-</div>
