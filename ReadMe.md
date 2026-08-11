@@ -1,127 +1,80 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=githarshil&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=githarshil&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Harshil" />
+  </picture>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0010,60:3d0020,100:cc0033&height=220&section=header&text=Harshil%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Building%20Real%20Things&descColor=ff4466cc&descSize=17&descAlignY=60&animation=twinkling" />
+<p align="center">
+  <a href="https://github.com/githarshil?tab=repositories"><b>Projects</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.gitskins.com">GitSkins</a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=githarshil&theme=aurora&label=Harshil" width="100%" alt="Animated 3D wordmark for Harshil" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/harshil-sharma-b746a7392">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:harshil.456.sharma@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cc0033?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=githarshil&style=for-the-badge&color=cc0033&label=PROFILE+VIEWS" />
-</div>
+## Building at the intersection of full-stack and AI
 
-<br/>
+I'm a Computer Science Engineering student at JSS Academy of Technical Education, Bengaluru, with a solid foundation in the MERN stack (React, Node.js, Express, MongoDB) and Supabase. I build projects, ship at hackathons, and I'm expanding into AI engineering — RAG pipelines, LangGraph, agentic workflows, and eventually model training and fine-tuning.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0033&center=true&vCenter=true&width=520&lines=React+%2B+Node.js+Developer;Full+Stack+Web+Engineer;Building+%E2%86%92+Learning+%E2%86%92+Shipping;Open+to+Hackathons+%26+Collabs" />
-</div>
+I'm also broadening into Java and system design alongside the AI/ML tooling side of things.
 
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=githarshil&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=githarshil&theme=aurora&mode=dark" width="100%" alt="About Harshil" />
+  </picture>
+</p>
 
----
+## Selected work
 
-## 🧑‍💻 About Me
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=githarshil&theme=aurora" width="100%" alt="Selected projects by Harshil" />
+</p>
 
-```javascript
-const harshil = {
-  role        : "Full Stack Developer",
-  currently   : ["⚛️  React", "🟢 Node.js", "🏗️  Building real-world apps"],
-  learning    : ["🤖 AI Engineering", "📐 System Design"],
-  stack       : ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
-  ask_me_about: ["Web Dev", "REST APIs", "Backend Architecture"],
-  reach_me_at : "harshil.456.sharma@gmail.com",
-  fun_fact    : "I debug with console.log and I'm not ashamed 🤷"
-};
-```
+| Project | What it is |
+| --- | --- |
+| [CodeDecode](https://github.com/githarshil) | AI-powered codebase visualization and onboarding tool, built with a 4-person team. React + Vite + Tailwind + React Flow + Supabase + GitHub API + Gemini API. |
+| [LifeFlow](https://github.com/githarshil) | Blood Bank & Donor Management System built for the DataVista 2026 DBMS mini-project competition. MySQL, Node.js/Express, React/Vite/Tailwind, with triggers, stored procedures, and Gemini API integration. |
+| [Game Shelf](https://github.com/githarshil) | Game-logging web app with a shelf-display, physical disc-case visual metaphor and multi-platform account aggregation. Aesthetic-first design in React, with IGDB + Steam OAuth integration underway. |
+| [NextGen Enterprises](https://github.com/githarshil) | Client website for a Vodafone Idea SIM reseller. React + Vite + Tailwind, deployed via Netlify to GoDaddy. |
 
-<br/>
+<p align="center">
+  <a href="https://github.com/githarshil?tab=repositories"><b>Explore all repositories</b></a>
+</p>
 
----
+## Engineering signal
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=githarshil&theme=aurora" width="100%" alt="Technology stack for Harshil" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=githarshil&theme=aurora" width="100%" alt="GitHub activity stats for Harshil" />
+</p>
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-%230a0a0f.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%230a0a0f.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%230a0a0f.svg?style=for-the-badge&logo=html5&logoColor=%23cc0033)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%230a0a0f.svg?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-%230a0a0f.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF)
-![Redux](https://img.shields.io/badge/Redux-%230a0a0f.svg?style=for-the-badge&logo=redux&logoColor=%23764ABC)
-![React Router](https://img.shields.io/badge/React_Router-%230a0a0f.svg?style=for-the-badge&logo=react-router&logoColor=%23cc0033)
-![React Query](https://img.shields.io/badge/React_Query-%230a0a0f.svg?style=for-the-badge&logo=reactquery&logoColor=%23FF4154)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%230a0a0f.svg?style=for-the-badge&logo=reacthookform&logoColor=%23EC5990)
+## A profile that moves
 
-### 🟢 Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-%230a0a0f.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-%230a0a0f.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%230a0a0f.svg?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![JWT](https://img.shields.io/badge/JWT-%230a0a0f.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
 
-### ⚙️ Tools & Others
-![Java](https://img.shields.io/badge/Java-%230a0a0f.svg?style=for-the-badge&logo=openjdk&logoColor=%23cc0033)
-![NPM](https://img.shields.io/badge/NPM-%230a0a0f.svg?style=for-the-badge&logo=npm&logoColor=%23cc0033)
-![Babel](https://img.shields.io/badge/Babel-%230a0a0f.svg?style=for-the-badge&logo=babel&logoColor=F9DC3E)
-![Nodemon](https://img.shields.io/badge/Nodemon-%230a0a0f.svg?style=for-the-badge&logo=nodemon&logoColor=76D04B)
-![Context API](https://img.shields.io/badge/Context_API-%230a0a0f.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/githarshil/githarshil/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
+</p>
 
-</div>
+## Current focus
 
-<br/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=githarshil&theme=aurora&items=AI%20engineering::RAG%20pipelines%2C%20LangGraph%2C%20agentic%20workflows|Full-stack%20builds::MERN%20%2B%20Supabase%20projects%20and%20hackathons|System%20design::Deepening%20Java%20and%20architecture%20fundamentals" width="100%" alt="Current focus areas for Harshil" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/githarshil?tab=repositories">See all repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a>
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=githarshil&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0a0a0f&title_color=cc0033&icon_color=cc0033&text_color=8899aa&ring_color=cc0033" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=githarshil&theme=dark&hide_border=true&background=0a0a0f&stroke=cc0033&ring=cc0033&fire=ff4466&currStreakNum=ffffff&sideNums=8899aa&currStreakLabel=cc0033&sideLabels=8899aa&dates=8899aa" />
-
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarshil&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0a0a0f&title_color=cc0033&text_color=8899aa" />
-</div>
-
-<br/>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=githarshil&bg_color=0a0a0f&color=cc0033&line=cc0033&point=ffffff&area_color=3d0020&area=true&hide_border=true" />
-</div>
-
-<br/>
-
----
-
-## ⏱️ WakaTime Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=githarshil&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=cc0033&text_color=8899aa&icon_color=cc0033&layout=compact" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0033,40:3d0020,70:1a0010,100:0a0a0f&height=120&section=footer&animation=twinkling" />
-
-</div>
-
+<p align="center">
+  <sub>Designed with GitSkins.</sub>
+</p>
