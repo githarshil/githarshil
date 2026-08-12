@@ -6,20 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/githarshil?tab=repositories"><b>Projects</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com">GitSkins</a>
-</p>
-
-<p align="center">
   <img src="https://www.gitskins.com/api/section/wordmark?username=githarshil&theme=aurora&label=Harshil" width="100%" alt="Animated 3D wordmark for Harshil" />
 </p>
 
 ## Building at the intersection of full-stack and AI
 
-I'm a Computer Science Engineering student at JSS Academy of Technical Education, Bengaluru, with a solid foundation in the MERN stack (React, Node.js, Express, MongoDB) and Supabase. I build projects, ship at hackathons, and I'm expanding into AI engineering — RAG pipelines, LangGraph, agentic workflows, and eventually model training and fine-tuning.
-
-I'm also broadening into Java and system design alongside the AI/ML tooling side of things.
+I'm a Computer Science Engineering student at JSS Academy of Technical Education, Bengaluru, with a solid foundation in the MERN stack (React, Node.js, Express, MongoDB) and Supabase.
+I'm also broadening into Java and system design alongside the web-dev tooling side of things.
 
 <p align="center">
   <picture>
@@ -72,9 +65,4 @@ The contribution graph is part of the profile experience. It refreshes automatic
 <p align="center">
   <a href="https://github.com/githarshil?tab=repositories">See all repositories</a>
   &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a>
-</p>
-
-<p align="center">
-  <sub>Designed with GitSkins.</sub>
 </p>
