@@ -45,9 +45,7 @@ I'm also broadening into Java and system design alongside the web-dev tooling si
 
 The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/githarshil/githarshil/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
-</p>
+<p align="center"> <img src="game.gif" width="100%" alt="Animated Space Shooter contribution game" /> </p>
 
 ## Current focus
 
