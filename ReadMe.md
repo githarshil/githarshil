@@ -27,13 +27,6 @@ I'm also broadening into Java and system design alongside the web-dev tooling si
   <img src="https://www.gitskins.com/api/section/projects?username=githarshil&theme=aurora" width="100%" alt="Selected projects by Harshil" />
 </p>
 
-| Project | What it is |
-| --- | --- |
-| [CodeDecode](https://github.com/githarshil) | AI-powered codebase visualization and onboarding tool, built with a 4-person team. React + Vite + Tailwind + React Flow + Supabase + GitHub API + Gemini API. |
-| [LifeFlow](https://github.com/githarshil) | Blood Bank & Donor Management System built for the DataVista 2026 DBMS mini-project competition. MySQL, Node.js/Express, React/Vite/Tailwind, with triggers, stored procedures, and Gemini API integration. |
-| [Game Shelf](https://github.com/githarshil) | Game-logging web app with a shelf-display, physical disc-case visual metaphor and multi-platform account aggregation. Aesthetic-first design in React, with IGDB + Steam OAuth integration underway. |
-| [NextGen Enterprises](https://github.com/githarshil) | Client website for a Vodafone Idea SIM reseller. React + Vite + Tailwind, deployed via Netlify to GoDaddy. |
-
 <p align="center">
   <a href="https://github.com/githarshil?tab=repositories"><b>Explore all repositories</b></a>
 </p>
