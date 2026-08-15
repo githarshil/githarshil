@@ -4,8 +4,6 @@
 
 ### Computer Science Engineer • MERN Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+the+MERN+stack;Exploring+RAG+pipelines+%26+agentic+workflows;Hackathon+builder+%7C+Always+shipping+something+new)](https://git.io/typing-svg)
-
 </div>
 
 <br>
@@ -84,9 +82,6 @@
 ---
 
 <div align="center">
-
-### 📌 Note
-This README uses live-rendered sections from [gitskins.com](https://www.gitskins.com) — they'll automatically stay up to date as your GitHub activity changes.
 
 ⭐ **Thanks for stopping by!**
 
