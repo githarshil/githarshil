@@ -2,7 +2,7 @@
 
 # Hi there, I'm Harshil 👋
 
-### Computer Science Engineer • MERN Stack Developer
+### Computer Science Engineer • MERN Stack Developer • 4x Hackathon Winnner
 
 </div>
 
